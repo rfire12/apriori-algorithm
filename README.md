@@ -4,7 +4,8 @@ Data mining algorithm to create association rules
 Requirements:
 - Python 3.7.0
 
-python3 main.py transacciones.txt 2 0.7
+##### Run
+`python3 main.py transacciones.txt 2 0.7`
 
 Parameters:
 
